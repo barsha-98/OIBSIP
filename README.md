@@ -1,4 +1,3 @@
-```markdown
 # OIBSIP Web Development Projects
 
 This repository showcases a collection of beginner-friendly web development projects completed as part of the OIBSIP (Oasis Infobyte Internship Program). These projects focus on foundational web technologies like HTML, CSS, and JavaScript, demonstrating core concepts and practical application.
@@ -81,4 +80,3 @@ To view these projects:
 * **GitHub Profile:** [barsha-98](https://github.com/barsha-98)
 
 Feel free to explore the code and provide any feedback!
-````
