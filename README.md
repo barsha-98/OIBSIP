@@ -14,7 +14,7 @@ This project involved creating a responsive landing page, emphasizing fundamenta
 * CSS3
 
 ### Visit Now
-[View Live Demo](https://barsha-98.github.io/OIBSIP/Task1/)
+[Live Demo](https://barsha-98.github.io/OIBSIP/Task1/)
 
 ---
 
@@ -28,7 +28,7 @@ A personal portfolio website designed to showcase a range of web development ski
 * CSS3
 
 ### Visit Now
-[View Live Demo](https://barsha-98.github.io/OIBSIP/Task2/)
+[Live Demo](https://barsha-98.github.io/OIBSIP/Task2/)
 
 ---
 
@@ -43,7 +43,7 @@ A dynamic web application that converts temperatures between different units. Us
 * JavaScript (for logic, input validation, and conversion)
 
 ### Visit Now
-[View Live Demo](https://barsha-98.github.io/OIBSIP/Task3/)
+[Live Demo](https://barsha-98.github.io/OIBSIP/Task3/)
 
 ---
 
