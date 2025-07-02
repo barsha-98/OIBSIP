@@ -68,7 +68,7 @@ To view these projects:
 2.  **Local Setup:**
     * Clone this repository to your local machine:
         ```bash
-        git clone [https://github.com/barsha-98/OIBSIP.git](https://github.com/barsha-98/OIBSIP.git)
+        git clone https://github.com/barsha-98/OIBSIP.git
         ```
     * Navigate into the desired project folder (e.g., `cd OIBSIP/Task1`).
     * Open the `index.html` file in your web browser.
